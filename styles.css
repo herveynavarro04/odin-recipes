@@ -1,0 +1,32 @@
+*{
+    background-color: darkolivegreen;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    font-size: 40px;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+
+.main-link{
+   list-style:lower-greek;
+   color: white;
+}
+
+.img{
+    text-align: center;
+}
+
+p{
+    color: white;
+}
+
+ul{
+    color: white;
+}
+
+li{
+    color: white
+}
